@@ -1,5 +1,6 @@
 .hydra/
 output/
+.venv/
 colmap_output/
 ckpt/
 # Byte-compiled / optimized / DLL files
