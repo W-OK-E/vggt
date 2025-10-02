@@ -1,5 +1,6 @@
 .hydra/
 output/
+colmap_output/
 ckpt/
 # Byte-compiled / optimized / DLL files
 __pycache__/
